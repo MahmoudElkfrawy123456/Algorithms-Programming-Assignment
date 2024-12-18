@@ -1,0 +1,14 @@
+G:\Visual Studio projects\AlgoProj 1\bin\Debug\net8.0\AlgoProj 1.exe
+G:\Visual Studio projects\AlgoProj 1\bin\Debug\net8.0\AlgoProj 1.deps.json
+G:\Visual Studio projects\AlgoProj 1\bin\Debug\net8.0\AlgoProj 1.runtimeconfig.json
+G:\Visual Studio projects\AlgoProj 1\bin\Debug\net8.0\AlgoProj 1.dll
+G:\Visual Studio projects\AlgoProj 1\bin\Debug\net8.0\AlgoProj 1.pdb
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.AssemblyInfoInputs.cache
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.AssemblyInfo.cs
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.csproj.CoreCompileInputs.cache
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.dll
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\refint\AlgoProj 1.dll
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.pdb
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\AlgoProj 1.genruntimeconfig.cache
+G:\Visual Studio projects\AlgoProj 1\obj\Debug\net8.0\ref\AlgoProj 1.dll
